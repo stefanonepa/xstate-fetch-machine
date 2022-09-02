@@ -1,0 +1,23 @@
+{
+  "name": "xstate-fetch-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanonepa/xstate-fetch-machine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanonepa/xstate-fetch-machine/issues"
+  },
+  "homepage": "https://github.com/stefanonepa/xstate-fetch-machine#readme",
+  "dependencies": {
+    "xstate": "^4.33.5"
+  }
+}
